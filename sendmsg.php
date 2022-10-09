@@ -45,7 +45,7 @@ if (strlen($fname) > 50) {
 
     require 'phpmailer/PHPMailerAutoload.php';
 
-    $mail = new PHPMailer();
+    $mail = new PHPMailer;
 	
 	//$mail->SMTPDebug = 3;                               // Enable verbose debug output
 
