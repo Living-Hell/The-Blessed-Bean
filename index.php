@@ -106,6 +106,28 @@
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
+                    <h2 class="intro-text text-center">The art of making a 
+                        <strong>perfect cup of coffee</strong>
+                    </h2>
+                    <hr>
+                    <p>For sheer sensory enjoyment, few everyday experiences can compete with a good cup of coffee. The alluring aroma of 
+                        steaming hot coffee just brewed from freshly roasted beans can drag sleepers from bed and pedestrians into cafés. 
+                        And many millions worldwide would find getting through the day difficult without the jolt of mental clarity imparted
+                         by the caffeine in coffee. But underlying this seemingly commonplace beverage is a profound chemical complexity. 
+                         Without a deep understanding of how the vagaries of bean production, roasting and preparation minutely affect the 
+                         hundreds of compounds that define coffee's flavor, aroma and body, a quality cup would be an infrequent and random 
+                         occurrence.</p>
+                    <p>Many people will go to great lengths to get the perfect roast. Very few will go to the edge of space to understand 
+                        what all goes in the making of the perfect brew. If you are the one, who wishes to get it all, we have got an 
+                        encyclopaedia right here for you.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
                     <h2 class="intro-text text-center">HOW TO MAKE A
                         <strong>PERFECT CUP OF COFFEE</strong>
                     </h2>
@@ -117,20 +139,6 @@
                         your coffee hot and mild or bracingly cold and string - we are sure to have what you are looking for. For 
                         access to unlimited recipes you must register! Registeration is free. Click here to get started.
                     </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="box">
-                <div class="col-lg-12">
-                    <hr>
-                    <h2 class="intro-text text-center">Beautiful boxes
-                        <strong>to showcase your content</strong>
-                    </h2>
-                    <hr>
-                    <p>Use as many boxes as you like, and put anything you want in them! They are great for just about anything, the sky's the limit!</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
                 </div>
             </div>
         </div>
